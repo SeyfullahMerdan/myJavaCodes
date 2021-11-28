@@ -1,4 +1,4 @@
-package myowncodes;
+package arrays_loops_smanipulaions_ifstatement;
 
 import java.util.Scanner;
 
