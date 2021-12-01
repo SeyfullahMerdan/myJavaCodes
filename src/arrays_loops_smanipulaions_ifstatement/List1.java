@@ -6,6 +6,7 @@ import java.util.List;
 
 public class List1 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 	
 		  /*

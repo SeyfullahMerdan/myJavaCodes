@@ -18,6 +18,7 @@ public class Rope {
 		
 	}
 
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 
 		Rope rope=new Rope();   // Obje oluþtudum
